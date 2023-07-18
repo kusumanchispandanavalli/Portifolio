@@ -46,3 +46,7 @@
 .card-img-top{
     height: 50vh;
 }
+body{
+   
+    background-image: linear-gradient(45deg,rgb(222, 190, 210), rgb(159, 208, 221),rgb(139, 201, 129), rgb(207, 152, 184),rgb(159, 208, 221));
+ }
